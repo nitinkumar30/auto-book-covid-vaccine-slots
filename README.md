@@ -70,8 +70,6 @@
 
 ## What inputs will be asked here 📝
 
-> Run the file ```covid-vaccine-slot-booking.py```
-
 - ```Your phone number``` (eg. 9346892074)
 - ```OTP you got in that number``` (eg. 539035)
 - ```For whom to book slot``` (eg. 1)
@@ -98,6 +96,7 @@
 > - Just extract it in a folder  
 > - Open in PyCharm  
 > - Install libraries  
+> - Open the file ```covid-vaccine-slot-booking.py```
 > - Hit :arrow_forward:  
 > - Give necessary inputs
 > - Wait for the successful message
