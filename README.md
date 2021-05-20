@@ -18,6 +18,7 @@
 > - Completely dependent upon the registration part you've done already
 > - Will ask for OTP needed for logging you in
 > - Your data is saved in your system only
+> - Can book for all members added in your account registered in covin.gov.in website
 
 
 ## Screenshots
