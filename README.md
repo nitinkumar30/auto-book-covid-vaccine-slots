@@ -32,7 +32,7 @@
 - Are you a programmer or have some knowledge of python?  
 - Are you a registered 'cowin.gov.in' user?
 
-> #####Then you're in correct place.  
+> ##### Then you're in correct place.  
    
 > - This project will automatically book a slot for vaccine available in your area.  
 > - This script will ask whether you need to auto book your slot or not  
