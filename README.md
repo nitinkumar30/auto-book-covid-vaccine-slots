@@ -5,22 +5,22 @@
 <img width="832" alt="vaccinne-1" src="https://user-images.githubusercontent.com/40369168/119012676-dcd28200-b9b3-11eb-8bdc-77d7eca07bef.PNG">
 
 - **Searching the location of yours**
-![Searching your location](Screenshots/vaccine2.PNG)
+<img width="795" alt="vaccinne-2" src="https://user-images.githubusercontent.com/40369168/119012819-012e5e80-b9b4-11eb-8fd3-31fdbb11d64d.PNG">
 
 - **Confirmation of your details**
-![Confirm details](Screenshots/vaccine3.PNG)
+<img width="841" alt="vaccinne-3" src="https://user-images.githubusercontent.com/40369168/119012861-0c818a00-b9b4-11eb-9024-48cfba2c1ea6.PNG">
 
 - **Scanning for the available slots in given centers**
-![Scan availble slots](Screenshots/vaccine4.PNG)
+<img width="760" alt="vaccinne-4" src="https://user-images.githubusercontent.com/40369168/119012928-1acfa600-b9b4-11eb-86f4-288f145a2c8f.PNG">
 
 - **Re-scanning as timeout for account's session**
-![Re-scanning for timeout](Screenshots/vaccine5.PNG)
+<img width="572" alt="vaccinne-5" src="https://user-images.githubusercontent.com/40369168/119012953-215e1d80-b9b4-11eb-90db-0bbf197ad835.PNG">
 
 - **If details saved, it'll take data from there**
-![Data usage](Screenshots/vaccine6.PNG)
+<img width="829" alt="vaccinne-6" src="https://user-images.githubusercontent.com/40369168/119012966-258a3b00-b9b4-11eb-8afe-8a4ac4a9fd8a.PNG">
 
 - **Booking successful message**
-![Booking successful message](Screenshots/vaccine7.PNG)
+<img width="832" alt="vaccinne-7" src="https://user-images.githubusercontent.com/40369168/119013023-333fc080-b9b4-11eb-8be9-37cbc53c8ab2.PNG">
 
 ## What's the use | What's this
 
