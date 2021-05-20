@@ -96,7 +96,7 @@
 > - Just extract it in a folder  
 > - Open in PyCharm  
 > - Install libraries  
-> - Open the file ```covid-vaccine-slot-booking.py```
+> - Open the file ```[covid-vaccine-slot-booking.py](https://github.com/nitin30kumar/auto-book-covid-vaccine-slots/blob/main/covid-vaccine-slot-booking.py)```
 > - Hit :arrow_forward:  
 > - Give necessary inputs
 > - Wait for the successful message
