@@ -70,6 +70,8 @@
 
 ## What inputs will be asked here 📝
 
+> Run the file ```covid-vaccine-slot-booking.py```
+
 - ```Your phone number``` (eg. 9346892074)
 - ```OTP you got in that number``` (eg. 539035)
 - ```For whom to book slot``` (eg. 1)
