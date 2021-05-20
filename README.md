@@ -65,7 +65,7 @@
 - Step 5: After all are installed, Click on 'X' and then 'OK' button
 - Step 6: Click on :arrow_forward: button
 
-## What inputs will it ask 📝
+## What inputs will be asked here 📝
 
 - ```Your phone number``` (eg. 9346892074)
 - ```OTP you got in that number``` (eg. 539035)
