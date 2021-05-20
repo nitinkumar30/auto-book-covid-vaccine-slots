@@ -32,7 +32,7 @@
 - Are you a programmer or have some knowledge of python?  
 - Are you a registered 'cowin.gov.in' user?
 
-> ##### Then you're in correct place.  
+###### Then you're in correct place.  
    
 > - This project will automatically book a slot for vaccine available in your area.  
 > - This script will ask whether you need to auto book your slot or not  
@@ -52,7 +52,7 @@
 - pysimplegui  
 <br>
 
-- ✔️ Install [Python 3.9](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) and [PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC) first 📌
+- Install [Python 3.9](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) and [PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC) first 📌
 
 ## How to install libraries 
 
@@ -97,4 +97,4 @@
 > - Wait for the successful message
 
 #### Was I able to make simpler with this script ? Was this simpler than your manual method ? Are you proud to be a programmer ? Do you love PYTHON ?
-#### If : , then give it a 🌟 
+#### If ✔️, then give it a 🌟 
