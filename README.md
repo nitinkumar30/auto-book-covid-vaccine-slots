@@ -2,25 +2,25 @@
 
 ## Screenshots
 - **Entering mobile number initially**
-<img width="832" alt="vaccinne-1" src="https://user-images.githubusercontent.com/40369168/119012676-dcd28200-b9b3-11eb-8bdc-77d7eca07bef.PNG">
+<img width="832" alt="Enter mobile number" src="https://user-images.githubusercontent.com/40369168/119012676-dcd28200-b9b3-11eb-8bdc-77d7eca07bef.PNG">
 
-- **Searching the location of yours**
-<img width="795" alt="vaccinne-2" src="https://user-images.githubusercontent.com/40369168/119012819-012e5e80-b9b4-11eb-8fd3-31fdbb11d64d.PNG">
+- **Searching the your location**
+<img width="795" alt="Search your location" src="https://user-images.githubusercontent.com/40369168/119012819-012e5e80-b9b4-11eb-8fd3-31fdbb11d64d.PNG">
 
 - **Confirmation of your details**
-<img width="841" alt="vaccinne-3" src="https://user-images.githubusercontent.com/40369168/119012861-0c818a00-b9b4-11eb-9024-48cfba2c1ea6.PNG">
+<img width="841" alt="Details confirmation" src="https://user-images.githubusercontent.com/40369168/119012861-0c818a00-b9b4-11eb-9024-48cfba2c1ea6.PNG">
 
 - **Scanning for the available slots in given centers**
-<img width="760" alt="vaccinne-4" src="https://user-images.githubusercontent.com/40369168/119012928-1acfa600-b9b4-11eb-86f4-288f145a2c8f.PNG">
+<img width="760" alt="Scannign for available doses" src="https://user-images.githubusercontent.com/40369168/119012928-1acfa600-b9b4-11eb-86f4-288f145a2c8f.PNG">
 
 - **Re-scanning as timeout for account's session**
-<img width="572" alt="vaccinne-5" src="https://user-images.githubusercontent.com/40369168/119012953-215e1d80-b9b4-11eb-90db-0bbf197ad835.PNG">
+<img width="572" alt="Re-scanning" src="https://user-images.githubusercontent.com/40369168/119012953-215e1d80-b9b4-11eb-90db-0bbf197ad835.PNG">
 
 - **If details saved, it'll take data from there**
-<img width="829" alt="vaccinne-6" src="https://user-images.githubusercontent.com/40369168/119012966-258a3b00-b9b4-11eb-8afe-8a4ac4a9fd8a.PNG">
+<img width="829" alt="Data re-usage" src="https://user-images.githubusercontent.com/40369168/119012966-258a3b00-b9b4-11eb-8afe-8a4ac4a9fd8a.PNG">
 
 - **Booking successful message**
-<img width="832" alt="vaccinne-7" src="https://user-images.githubusercontent.com/40369168/119013023-333fc080-b9b4-11eb-8be9-37cbc53c8ab2.PNG">
+<img width="832" alt="Booking success message" src="https://user-images.githubusercontent.com/40369168/119013023-333fc080-b9b4-11eb-8be9-37cbc53c8ab2.PNG">
 
 ## What's the use | What's this
 
@@ -48,7 +48,7 @@
 - pyinstaller
 - pysimplegui  
 <br>
- - [x] Install [python 3.9](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) and [PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC) first
+Install [python 3.9](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) and [PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC) first
 
 ## How to install libraries
 
