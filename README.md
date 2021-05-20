@@ -2,7 +2,7 @@
 
 ## Screenshots
 - **Entering mobile number initially**
-![Enter your details](Screenshots/vaccine1.PNG)
+<img width="832" alt="vaccinne-1" src="https://user-images.githubusercontent.com/40369168/119012676-dcd28200-b9b3-11eb-8bdc-77d7eca07bef.PNG">
 
 - **Searching the location of yours**
 ![Searching your location](Screenshots/vaccine2.PNG)
