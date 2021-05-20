@@ -1,7 +1,7 @@
 # Auto Slot book for COVISHIELD/ COVAXIN vaccine
 
 ## Screenshots
-- **Entering mobil number initially**
+- **Entering mobile number initially**
 ![Enter your details](Screenshots/vaccine1.PNG)
 
 - **Searching the location of yours**
