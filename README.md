@@ -1,5 +1,7 @@
 # Auto Slot booking for COVISHIELD/ COVAXIN vaccine 💉
 
+#### Coronavirus is the worst thing we've ever seen in our life. I'll have long-life impact in our life. We can minimise the chances of getting infected by it. So, feel free to take part in this vaccination drive 😎
+
 > 🔊 Special thanks to [Pallupz](https://github.com/pallupz/covid-vaccine-booking) 💝
 
 ## What's the use | What's this 👋
