@@ -87,6 +87,7 @@
 
 - **Only valid for almost 15-16 minutes only**. The code will give a beep sound and stop. You need to re-run the code and give OTP.
 - Any wrong input will be declared as **wrong input** and **program will terminate** ⛔. So, read the steps carefully.
+- Captcha needs to be solved manually as it can't be automated. Some google captcha can be [automated](https://developers.google.com/recaptcha/docs/faq#what-happens-to-recaptcha-v1)
 
 ## How to run it 🏃
 > - Just extract it in a folder  
