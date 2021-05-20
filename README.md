@@ -2,6 +2,24 @@
 
 > 🔊 Special thanks to [Pallupz](https://github.com/pallupz/covid-vaccine-booking) 💝
 
+## What's the use | What's this 👋
+
+- Are you not getting slot for your vaccination?  
+- Are your logging every day to book slot for vaccine?  
+- Are you 18+ but not getting single open slot?  
+- Are you a programmer or have some knowledge of python?  
+- Are you a registered 'cowin.gov.in' user?
+
+#### Then you're in correct place.  
+   
+> - This project will automatically book a slot for vaccine available in your area.  
+> - This script will ask whether you need to auto book your slot or not  
+> - You can even save the input you've given
+> - Completely dependent upon the registration part you've done already
+> - Will ask for OTP needed for logging you in
+> - Your data is saved in your system only
+
+
 ## Screenshots
 - **Entering mobile number initially**
 <img width="832" alt="Enter mobile number" src="https://user-images.githubusercontent.com/40369168/119012676-dcd28200-b9b3-11eb-8bdc-77d7eca07bef.PNG">
@@ -23,23 +41,6 @@
 
 - **Booking successful message**
 <img width="832" alt="Booking success message" src="https://user-images.githubusercontent.com/40369168/119013023-333fc080-b9b4-11eb-8be9-37cbc53c8ab2.PNG">
-
-## What's the use | What's this 👋
-
-- Are you not getting slot for your vaccination?  
-- Are your logging every day to book slot for vaccine?  
-- Are you 18+ but not getting single open slot?  
-- Are you a programmer or have some knowledge of python?  
-- Are you a registered 'cowin.gov.in' user?
-
-#### Then you're in correct place.  
-   
-> - This project will automatically book a slot for vaccine available in your area.  
-> - This script will ask whether you need to auto book your slot or not  
-> - You can even save the input you've given
-> - Completely dependent upon the registration part you've done already
-> - Will ask for OTP needed for logging you in
-> - Your data is saved in your system only
 
 ## Library Requirements 📑
 
