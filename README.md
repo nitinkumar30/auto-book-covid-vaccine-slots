@@ -1,4 +1,4 @@
-# Auto Slot book for COVISHIELD/ COVAXIN vaccine
+# Auto Slot booking for COVISHIELD/ COVAXIN vaccine
 
 ## Screenshots
 - **Entering mobile number initially**
